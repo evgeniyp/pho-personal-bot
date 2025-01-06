@@ -1,8 +1,8 @@
-name: sample-python
+name: pho-personal-bot
 services:
 - environment_slug: python
   github:
     branch: main
     deploy_on_push: true
-    repo: digitalocean/sample-python
-  name: sample-python
+    repo: digitalocean/pho-personal-bot
+  name: pho-personal-bot

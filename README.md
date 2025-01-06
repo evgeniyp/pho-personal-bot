@@ -6,13 +6,13 @@ We provide a sample app using Python that you can deploy on App Platform. These 
 
 ### Requirements
 
-* You need a DigitalOcean account. If you don't already have one, you can sign up at https://cloud.digitalocean.com/registrations/new.
+- You need a DigitalOcean account. If you don't already have one, you can sign up at https://cloud.digitalocean.com/registrations/new.
 
 ## Deploying the App
 
 Click this button to deploy the app to the DigitalOcean App Platform. If you are not logged in, you will be prompted to log in with your DigitalOcean account.
 
-[![Deploy to DigitalOcean](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/digitalocean/sample-python/tree/main)
+[![Deploy to DigitalOcean](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/evgeniyp/pho-personal-bot/tree/main)
 
 Using this button disables the ability to automatically re-deploy your app when pushing to a branch or tag in your repository as you are using this repo directly.
 
@@ -49,6 +49,7 @@ You can learn more about the App Platform and how to manage and update your appl
 ## Deleting the App
 
 When you no longer need this sample application running live, you can delete it by following these steps:
+
 1. Visit the Apps control panel at https://cloud.digitalocean.com/apps.
 2. Navigate to the sample app.
 3. In the **Settings** tab, click **Destroy**.
