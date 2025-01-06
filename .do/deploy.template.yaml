@@ -4,5 +4,5 @@ spec:
   - environment_slug: python
     git:
       branch: main
-      repo_clone_url: https://https://github.com/evgeniyp/pho-personal-bot.git
+      repo_clone_url: https://github.com/evgeniyp/pho-personal-bot.git
     name: pho-personal-bot
