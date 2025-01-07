@@ -1,3 +1,11 @@
+## My Notes
+
+`pip index versions <package>` - list all versions of a package
+
+`pip install -r requirements.txt` - install all packages from requirements.txt
+
+`python server.py` - run the server
+
 ## Getting Started
 
 We provide a sample app using Python that you can deploy on App Platform. These steps will get this sample application running for you using App Platform.
